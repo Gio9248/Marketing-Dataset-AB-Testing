@@ -30,7 +30,7 @@ H1: p_ad ≠ p_psa — влияет (двусторонняя альтернат
 
 ## Z-тест для двух долей
 
-`statsmodels.stats.proportion.proportions_ztest`. Получено Z = 7.37, p-value = 1.71e-13 — на много порядков меньше 0.05, H0 отвергается.
+`statsmodels.stats.proportion.proportions_ztest`. Получено Z = 7.37, p-value = 1.71e-13 — меньше 0.05, H0 отвергается.
 
 ## Доверительные интервалы
 
